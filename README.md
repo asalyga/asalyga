@@ -7,13 +7,8 @@
 
 ### 📫 How to reach me: 
 <ul>
-  <li>Email: [<img alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]</li>
-  <li>LinkedIn: [<img  alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]</li>
-  <li>Twitter: [<img  alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]</li>
+  <li>Email: [aleksander.salyga@gmail.com](mailto:aleksander.salyga@gmail.com)</li>
+  <li>LinkedIn: </li>
+  <li>Twitter: </li>
 </ul>
-
-
-
-[email]: mailto:aleksander.salyga@gmail.com
-[twitter]: https://twitter.com/aleeeksx
-[linkedin]: https://www.linkedin.com/in/aleksander-salyga/
+[links text](Links Url)
