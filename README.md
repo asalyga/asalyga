@@ -8,6 +8,7 @@
     - Machine learning/Deep learning
 - 🥅 2022 Goals: 
     - Become an amazing developer
+    - Practice solving coding problems 
     - Learn German
     - Read more books
     - Travel and work more 
@@ -17,7 +18,6 @@
 Email: [aleksander.salyga@gmail.com](mailto:aleksander.salyga@gmail.com)
 <br>
 LinkedIn: [aleksander-salyga](https://www.linkedin.com/in/aleksander-salyga)
-<br>
 <br>
 
 ### Languages and Tools:
@@ -36,5 +36,7 @@ LinkedIn: [aleksander-salyga](https://www.linkedin.com/in/aleksander-salyga)
 
 <br />
 <br />
+
+### LeetCode Stats
 
 [![Leetcode Stats](https://leetcode.card.workers.dev/?username=AleksanderSalyga&theme=dark)](https://leetcode.com/AleksanderSalyga)
