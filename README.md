@@ -1,6 +1,6 @@
 ### Cześć, Hi, Hallo, I'm Aleksander 👋
 
-## I am a Software developer, Computer science student, and Muay Thai Fighter
+## I am a Software developer and Computer science student
 
 - 🔭 I’m currently working on E-commerce website "Juliana"
 - 🌱 I’m currently learning 
