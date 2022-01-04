@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning 
     - Ruby on Rails
     - Machine learning/Deep learning
-    - German
 - 🥅 2022 Goals: 
     - Become an amazing developer
     - Learn German
@@ -15,12 +14,8 @@
 
 ### 📫 How to reach me: 
 
-Email: aleksander.salyga@gmail.com [<img alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]
+Email: [aleksander.salyga@gmail.com](mailto:aleksander.salyga@gmail.com)
 <br>
-LinkedIn: aleksander-salyga[<img  alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+LinkedIn: [aleksander-salyga](https://www.linkedin.com/in/aleksander-salyga)
 <br>
-
-
-
-[email]: mailto:aleksander.salyga@gmail.com
-[linkedin]: https://www.linkedin.com/in/aleksander-salyga/
+<br>
