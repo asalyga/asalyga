@@ -14,9 +14,10 @@
     - Travel and work more 
 
 ### 📫 How to reach me: 
-Email: aleksander.salyga@gmail.com [<img alt="Email" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]
+
+Email: aleksander.salyga@gmail.com [<img alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]
 <br>
-LinkedIn: aleksander-salyga[<img  alt="LinkedIn" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+LinkedIn: aleksander-salyga[<img  alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br>
 
 
