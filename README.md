@@ -2,8 +2,10 @@
 
 ## I am a Software developer and Computer science student
 
-- 🔭 I’m currently working on E-commerce website "Juliana"
-- 🌱 I’m currently learning 
+
+- 💼 Currently working for [Cloud Sailor](https://www.cloudsailor.com/) as Junior software developer
+- 👨🏻‍💻 Currently working on E-commerce website "Juliana"
+- 📚 Currently learning 
     - Ruby on Rails
     - Machine learning/Deep learning
 - 🥅 2022 Goals: 
