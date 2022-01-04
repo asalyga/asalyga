@@ -40,8 +40,6 @@ LinkedIn: [aleksander-salyga](https://www.linkedin.com/in/aleksander-salyga)
 <br />
 
 ### LeetCode Stats
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=AleksanderSalyga&theme=dark)
-
 
 [![Leetcode Stats](https://leetcode.card.workers.dev/?username=AleksanderSalyga&theme=dark)](https://leetcode.com/AleksanderSalyga)
 
