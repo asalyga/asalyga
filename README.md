@@ -7,6 +7,7 @@
 - 👨🏻‍💻 Currently working on E-commerce website "Juliana"
 - 📚 Currently learning 
     - Ruby on Rails
+    - Django
     - Machine learning/Deep learning
 - 🥅 2022 Goals: 
     - Become an amazing developer
