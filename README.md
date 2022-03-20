@@ -4,7 +4,7 @@
 
 
 - 💼 Currently working for [Cloud Sailor](https://www.cloudsailor.com/) as Junior software developer
-- 💻 Currently working on E-commerce website "Juliana" (on hold) 
+- 💻 Main personal project: E-commerce website "Juliana"
 - 📚 Currently learning 
     - Ruby on Rails for web development!
     - Machine learning/Deep learning for fun :3 
