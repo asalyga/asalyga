@@ -4,10 +4,13 @@
 
 
 - 💼 Currently working for [Cloud Sailor](https://www.cloudsailor.com/) as Junior software developer
+<!---
 - 💻 Main personal project: E-commerce website "Juliana"
+--->
 - 📚 Currently learning 
-    - Ruby on Rails for web development!
-    - Machine learning/Deep learning for fun :3 
+    - FastAPI
+    - Best practices for web apps architecture design
+    - Python skills polishing
 - 🥅 2022 Goals: 
     - Become an amazing developer
     - Practice solving coding problems 
