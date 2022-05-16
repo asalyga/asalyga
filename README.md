@@ -3,7 +3,6 @@
 ## I am a Software developer and Computer science student
 
 
-- 💼 Currently working for [Cloud Sailor](https://www.cloudsailor.com/) as Junior software developer
 <!---
 - 💻 Main personal project: E-commerce website "Juliana"
 --->
